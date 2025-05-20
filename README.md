@@ -21,8 +21,8 @@ NoiseSense/
 ## Setup
 1. **Clone the repository:**
    ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
+git clone https://github.com/DiamondKJ/NoiseSense.git
+cd NoiseSense
 ```
 2. **Install dependencies:**
    ```bash
@@ -56,7 +56,7 @@ python notebooks/train_model.py
 ## License
 MIT License
 
-Copyright (c) 2025 Kaustutubh Joshi
+Copyright (c) 2024 Kaustutubh Joshi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
