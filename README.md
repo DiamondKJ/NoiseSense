@@ -1,7 +1,25 @@
 # NoiseSense: UrbanSound8K Audio Classification
 
+**Key Results:**
+- Best Training Accuracy: **0.9805**
+- Best Validation Accuracy: **0.9450**
+
 ## Overview
 NoiseSense is a machine learning pipeline for classifying environmental sounds using the UrbanSound8K dataset. The project includes scripts for dataset setup, preprocessing, and model training.
+
+## Categories
+This model can classify audio into the following 10 UrbanSound8K categories:
+
+1. air_conditioner
+2. car_horn
+3. children_playing
+4. dog_bark
+5. drilling
+6. engine_idling
+7. gun_shot
+8. jackhammer
+9. siren
+10. street_music
 
 ## Project Structure
 ```
