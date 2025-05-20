@@ -77,3 +77,19 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 echo "data/\n__pycache__/\n*.pyc\n*.pyo\n*.pyd\n*.env\n.venv\nenv/\nvenv/\nENV/\n.ipynb_checkpoints/" > .gitignore 
+
+## Results
+
+Below are some key results from model training and evaluation:
+
+### Training Accuracy
+![Training Accuracy](images_of_results/model-accuracy.png)
+
+### Training Loss
+![Training Loss](images_of_results/model-loss.png)
+
+### Confusion Matrix
+![Confusion Matrix](images_of_results/confusion-matrix.png)
+
+### Classification Report
+![Classification Report](images_of_results/classification-report.png) 
